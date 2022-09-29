@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1663268428 source:d:\codeprojectos\codeblock\listas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"persona.h"
+
+1663266175 d:\codeprojectos\codeblock\listas\lista.h
+
+1663266220 d:\codeprojectos\codeblock\listas\persona.h
+	"Lista.h"
+
+1663603555 source:d:\codeprojectos\codeblock\listas\main.c
+	"lista.h"
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+
+1663266257 source:d:\codeprojectos\codeblock\listas\persona.c
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
